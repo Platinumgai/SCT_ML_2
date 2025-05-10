@@ -6,9 +6,13 @@ This project uses the K-Means Clustering algorithm to segment customers of a ret
 customer-segmentation-app/
 
 ├── app.py                  # Streamlit app script
+
 ├── kmeans_model.pkl        # Trained KMeans model
+
 ├── Mall_Customers (1).csv  # Original dataset (optional, for training only)
+
 ├── README.md               # Project documentation
+
 
 ✅ Features
 Input Annual Income and Spending Score
